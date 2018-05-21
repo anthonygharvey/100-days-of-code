@@ -8,6 +8,18 @@
 3. [Resistance, Habit Change and the #100DaysOfCode Movement](https://studywebdevelopment.com/100-days-of-code.html) StudyWebDevelopment Blog
 
 ### Podcasts
+1. [CodeNewbie](https://www.codenewbie.org/podcast)
+2. [Base.cs](https://www.codenewbie.org/basecs)
+3. [freeCodeCamp](https://freecodecamp.libsyn.com)
+4. [Syntax](https://syntax.fm)
+5. [Complete Developer Podcast](https://completedeveloperpodcast.com)
+6. [Junior Developer Toolbox](https://juniordevelopertoolbox.com/)
+7. [CodeView](https://podtail.com/en/podcast/codeview/)
+8. [Second Career Devs](https://secondcareerdevs.com)
+9. [egghead.io](https://egghead.simplecast.fm)
+10. [Educate Yourself - Ryan Carson of Treehouse](https://educateyourself.libsyn.com/)
+11. [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
+
 
 # Additional Resources on the #100DaysOfCode
 
