@@ -9,3 +9,9 @@ I learned about restricting routes to users that are logged in.  I also learned 
 
 ### R1D2&3
 I worked on authentication in Rails yesterday and today.  The more I learn about Rails the more I love it!
+
+### R1D4
+
+I worked on a simple Rails app and implemented OmniAuth to login with a Facebook email and password.  This was my first time using OmniAuth and it seems cool.  I like the idea of making it as easy as possible for users to signup for my apps with a ubiquitous service like Facebook.  I plan to learn more about other providers (strategies in Rails) like Google, Twitter and Amazon for my upcoming Ruby on Rails project!
+
+I also signed up for two Meetups for next week!  These will be my first meetups and I'm excited to get plugged into the Charlotte developer scene.  The first Meetup is [Turning Pro: Advice on Making the Switch to Professional Developer](http://meetu.ps/e/FfF23/Dt3Gn/f) on May 30 and the second is [Web Performance Techniques](http://meetu.ps/e/FdMRb/Dt3Gn/f) on May 31.
