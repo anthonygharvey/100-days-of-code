@@ -18,3 +18,6 @@ I also signed up for two Meetups for next week!  These will be my first meetups 
 
 ### R1D5
 Added OmniAuth with GitHub to a TodoMVC Rails app.  I'm learning more about the security provided by using OAuth, which is amazing considering how fast the authentication happens!
+
+### R1D6
+Worked on a small Rails project combining form helpers, models that interact and a simple sessions system.  I finished building the models and passed the tests.  I'll work on the forms and sessions tomorrow!
