@@ -21,3 +21,6 @@ Added OmniAuth with GitHub to a TodoMVC Rails app.  I'm learning more about the 
 
 ### R1D6
 Worked on a small Rails project combining form helpers, models that interact and a simple sessions system.  I finished building the models and passed the tests.  I'll work on the forms and sessions tomorrow!
+
+#### R1D7
+More progress today on the Rails project.  It's starting to come together but there are a lot of pieces.  Tomorrow I'll work on building out the views.
