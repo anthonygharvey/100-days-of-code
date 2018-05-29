@@ -24,3 +24,6 @@ Worked on a small Rails project combining form helpers, models that interact and
 
 #### R1D7
 More progress today on the Rails project.  It's starting to come together but there are a lot of pieces.  Tomorrow I'll work on building out the views.
+
+### R1D8
+I finished my small Rails app and started planning my Rails portfolio project.  I definitely see the value in taking time to plan a project before writing the first line of code!
