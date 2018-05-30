@@ -27,3 +27,6 @@ More progress today on the Rails project.  It's starting to come together but th
 
 ### R1D8
 I finished my small Rails app and started planning my Rails portfolio project.  I definitely see the value in taking time to plan a project before writing the first line of code!
+
+### R1D9
+I updated the plan for my Rails portfolio project today and started mapping out the models and relationships.  I also received some great news today, I won a diversity scholarship to [MongoDB World 2018](https://www.mongodb.com/world18)!  I'm beyond excited and can't wait to attend!  Today was also the start of the MongoDB for Node.js Developers course on MongoDB University, so I started that as well.
