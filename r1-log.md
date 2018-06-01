@@ -33,3 +33,6 @@ I updated the plan for my Rails portfolio project today and started mapping out 
 
 ### R1D10
 I made some updates to my models and relationship maps for my Rails project.  I'm glad I took the time to plan it out because it made coding the models and relationships much easier!  I also went to my first Meetup!  The title of the meet up was [`Turning Pro: Advice on Making the Switch to Professional Developer](https://www.meetup.com/charlottedevs/events/250514891).  The speakers were great and I met a lot of awesome developers in the community.  I definitely will be going to more!
+
+### R1D11
+I learned more about testing with Rspec today and practiced on a scratch app.  I plan on adding tests to the models in my Rails app tomorrow!  I definitely see the benefits of TDD!
