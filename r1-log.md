@@ -40,7 +40,7 @@ I learned more about testing with Rspec today and practiced on a scratch app.  I
 ### R1D12
 I finished all of the model validation and association tests for my Ruby on Rails project.  I used the rspec, factory_bot, facker and shoulda gems.  I'll start building and testing instance and class methods tomorrow.  I'm starting to like Test Driven Development!
 
-### R1D12 & 14 (Fri & Sat)
+### R1D13 & 14 (Fri & Sat)
 I made a lot of progress on writing instance, class and scope method tests for my models; and writing methods to make those tests pass.  Practicing TDD definitely forces you to think about what you're implementing before you actually do!
 
 ### R1D15 (Mon)
