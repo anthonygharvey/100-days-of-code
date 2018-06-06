@@ -36,3 +36,15 @@ I made some updates to my models and relationship maps for my Rails project.  I'
 
 ### R1D11
 I learned more about testing with Rspec today and practiced on a scratch app.  I plan on adding tests to the models in my Rails app tomorrow!  I definitely see the benefits of TDD!
+
+### R1D12
+I finished all of the model validation and association tests for my Ruby on Rails project.  I used the rspec, factory_bot, facker and shoulda gems.  I'll start building and testing instance and class methods tomorrow.  I'm starting to like Test Driven Development!
+
+### R1D12 & 14 (Fri & Sat)
+I made a lot of progress on writing instance, class and scope method tests for my models; and writing methods to make those tests pass.  Practicing TDD definitely forces you to think about what you're implementing before you actually do!
+
+### R1D15 (Mon)
+I took Sunday off and spent time with my family.  Today I dove back into the [MongoDB for Node.js Developers](https://university.mongodb.com/courses/M001/about) course (I will get my professional certification once I finish!).  I really like the document format.  Patterns are starting to become more apparent now what I know more Ruby on Rails!
+
+### R1D16 (Tues)
+I finished and submitted the first week homework assignments for the MongoDB for Node.js Developers course today.  I'm learning more and more about MongoDB, Express and Node.js.  I also finished writing all of the model tests for my Ruby on Rails project along with coding all of the class, scope and instance methods to make those tests pass (52 in all).  I also began working on the controllers and views.  It's fun to start seeing an idea that I've had for a while start to take shape!
