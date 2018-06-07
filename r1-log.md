@@ -48,3 +48,6 @@ I took Sunday off and spent time with my family.  Today I dove back into the [Mo
 
 ### R1D16 (Tues)
 I finished and submitted the first week homework assignments for the MongoDB for Node.js Developers course today.  I'm learning more and more about MongoDB, Express and Node.js.  I also finished writing all of the model tests for my Ruby on Rails project along with coding all of the class, scope and instance methods to make those tests pass (52 in all).  I also began working on the controllers and views.  It's fun to start seeing an idea that I've had for a while start to take shape!
+
+### R1D17 (Wed)
+I made a lot of progress today on my Ruby on Rails project.  I added user authentication, controllers for each of the resources and stubbed out the views.  I'll work on the scrapper component of the project and adding OmniAuth tomorrow.  I'm excited about the scrapper part of the project!  Access to an API would be great, but the website I want to pull information from does not offer one for a certain part of the website I'm interested in.
