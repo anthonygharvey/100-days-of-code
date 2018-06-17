@@ -51,3 +51,14 @@ I finished and submitted the first week homework assignments for the MongoDB for
 
 ### R1D17 (Wed)
 I made a lot of progress today on my Ruby on Rails project.  I added user authentication, controllers for each of the resources and stubbed out the views.  I'll work on the scrapper component of the project and adding OmniAuth tomorrow.  I'm excited about the scrapper part of the project!  Access to an API would be great, but the website I want to pull information from does not offer one for a certain part of the website I'm interested in.
+
+### R1D18 - 27 (Thurs - Sat)
+I completed about 95% of the scraper component on Thursday!  It grabs all of the info I need but I had to refactor it for the items that are lazily loaded.  My initial approach was to recursivly grab the "see more" URL at the end of each page as it was generated and use it to scrap the next lazily loaded page.  I decided against it at first to avoid too many hits to the website and tried the waiter-scroll gem.  I used the waiter-scroll, selenium and even JavaScript, but the all seemed too hacky and brittle.  So I went with my first approach and made it work!  The website I'm scraping is one of the largest in the world (I'm sure they can handle my requests!) and the lists that I'm scraping don't have that many lazily loaded pages.
+
+I updated the scraper Fri - Mon (day 19 - 22) to account for edge case  (if the product was added to a list and subsequently discontinued or if no restock ETA was available), wired the controllers and views, styled the app with [Material Design Lite](https://getmdl.io/).  I also finished week 2 of the [MongoDB for Node.js Developers](https://university.mongodb.com/courses/M001/about) course!
+
+I finished my Ruby on Rails project on Friday! and deployed my previous project: [Developer Journal](https://developer-journal.herokuapp.com)!  The developer journal was my second project at Flatiron School and I built it to fill a gap in apps I was using to keep track of my learning/coding "streaks".  You can read more about the app on the [about page](https://developer-journal.herokuapp.com/about) and learn how I built it by checking out my GitHub [repo](https://github.com/anthonygharvey/developer_journal).
+
+The Ruby on Rails project was a lot of fun and I learned a lot!  I deployed it to Heroku today and, after I make a few styling adjustments and add an about page, I plan to spread the word about the beta launch.  The actual launch will be once I update it with JavaScript for my next projects!
+
+I love being able to take an idea and create something to share with the world!
