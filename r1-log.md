@@ -62,3 +62,6 @@ I finished my Ruby on Rails project on Friday! and deployed my previous project:
 The Ruby on Rails project was a lot of fun and I learned a lot!  I deployed it to Heroku today and, after I make a few styling adjustments and add an about page, I plan to spread the word about the beta launch.  The actual launch will be once I update it with JavaScript for my next projects!
 
 I love being able to take an idea and create something to share with the world!
+
+### R1D28 - 29 (Sun - Mon)
+My Ruby on Rails app is finally deployed on Heroku!!  I worked through some bugs but it's finally up [https://shelter-gifts.herokuapp.com/](https://shelter-gifts.herokuapp.com/).  It's an app that makes it easy to donate to homeless shelters.  I wrote an artile on my website detailing how I came up with the idea and my approach to developing it [https://github.com/anthonygharvey/shelter-gifts](https://github.com/anthonygharvey/shelter-gifts).  This was my 3rd project for Flatiron School and my first Ruby on Rails app.  I had a lot of fun making it!
