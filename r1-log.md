@@ -68,3 +68,9 @@ My Ruby on Rails app is finally deployed on Heroku!!  I worked through some bugs
 
 ### R1D30 - 31 (Tues - Wed)
 Continued to make small update to my Shelter Gifts project.  I also dove back into the [MongoDB for Node.js Developers](https://university.mongodb.com/courses/M001/about) course.  Fun stuff!
+
+### R1D32 (Thurs)
+More JavaScript today.  I also made updates to my website and LinkedIn profile.
+
+### R1D33 - 35 (Fri - Sun)
+ I learned more about JavaScript & dove back into MongoDB over the weekend.  I learned about schema design & patterns, case studies & tradeoffs to be made.  There are a lot of factors to consider and it’s just as much an art as it is a science!
