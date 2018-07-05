@@ -74,3 +74,6 @@ More JavaScript today.  I also made updates to my website and LinkedIn profile.
 
 ### R1D33 - 35 (Fri - Sun)
  I learned more about JavaScript & dove back into MongoDB over the weekend.  I learned about schema design & patterns, case studies & tradeoffs to be made.  There are a lot of factors to consider and it’s just as much an art as it is a science!
+
+ ### R1D36-45
+ A lot has happened over the last 10 days. I had an AWESOME time & met a lot of great people at #MDBW18. I passed my #RubyOnRails project assessment! (pair programming was challenging but fun) Also learned more MongoDB & getting deeper into JavaScript.
