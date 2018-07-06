@@ -77,3 +77,6 @@ More JavaScript today.  I also made updates to my website and LinkedIn profile.
 
  ### R1D36-45
  A lot has happened over the last 10 days. I had an AWESOME time & met a lot of great people at #MDBW18. I passed my #RubyOnRails project assessment! (pair programming was challenging but fun) Also learned more MongoDB & getting deeper into JavaScript.
+
+ ### R1D46
+ I practiced a lot of JavaScript today.  Specifically, filter, map and first-class functions.  I also learned more about reduce, which is very cool!  I feel like I'm only scratching the surface of what's possible with it!  I jumped a little ahead of the Flatiron curriculum to learn about arrow functions.  I completed labs using standard functions, the rewrote using arrow functions.  I really like the conciseness of arrow functions!
