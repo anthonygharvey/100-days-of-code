@@ -80,3 +80,6 @@ More JavaScript today.  I also made updates to my website and LinkedIn profile.
 
  ### R1D46
  I practiced a lot of JavaScript today.  Specifically, filter, map and first-class functions.  I also learned more about reduce, which is very cool!  I feel like I'm only scratching the surface of what's possible with it!  I jumped a little ahead of the Flatiron curriculum to learn about arrow functions.  I completed labs using standard functions, the rewrote using arrow functions.  I really like the conciseness of arrow functions!
+
+ ### R1D47
+ More JavaScript today.  I practiced with more first-class functions.  I'm really starting to like JavaScript more and more!  I also learned about closures, which seem very powerfull and allow for DRY and modular code.  I also lead my second pair-programming session today with a newer student.  I definitely like teaching and sharing what I've learned.  It forces me to make sure I know what I'm talking about and can explain concepts in a way that makes sense.  The session was with the same student as the first session.  We have our third session scheduled for Tuesday and I'm really looking forward to it!  I LOVE watching someone grow and seeing some their "ah-ha" moments!
